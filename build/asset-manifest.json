@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/NicolassperaPortfolio/static/css/main.fab4da40.css",
-    "main.js": "/NicolassperaPortfolio/static/js/main.c4037c6b.js",
-    "static/js/787.5c0b2d12.chunk.js": "/NicolassperaPortfolio/static/js/787.5c0b2d12.chunk.js",
-    "static/media/Buenclima.png": "/NicolassperaPortfolio/static/media/Buenclima.9f6f82e6d6282c76b52b.png",
-    "static/media/Proyectoclima.png": "/NicolassperaPortfolio/static/media/Proyectoclima.3130f761f1abe49bf64d.png",
-    "static/media/GifApp.png": "/NicolassperaPortfolio/static/media/GifApp.980794ed0ac049e6f938.png",
-    "static/media/WebSorteos.png": "/NicolassperaPortfolio/static/media/WebSorteos.d47f102a6b45ec4709cb.png",
-    "static/media/home-main.svg": "/NicolassperaPortfolio/static/media/home-main.359935c39288e92d4dba5c9f2445b91d.svg",
-    "static/media/about.png": "/NicolassperaPortfolio/static/media/about.aee0f771fbfc1e7b8fa8.png",
-    "static/media/CV Nicolas Spera 2024.pdf": "/NicolassperaPortfolio/static/media/CV Nicolas Spera 2024.4785870578cd267ddd3e.pdf",
-    "static/media/logo.png": "/NicolassperaPortfolio/static/media/logo.c75a0d14726ac095cd9d.png",
-    "static/media/home-bg.jpg": "/NicolassperaPortfolio/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
-    "static/media/avatar.svg": "/NicolassperaPortfolio/static/media/avatar.7f806e40d46fc76fbc3c4a3d71349951.svg",
-    "static/media/pre.svg": "/NicolassperaPortfolio/static/media/pre.4410c5baaa673cc131da.svg",
-    "index.html": "/NicolassperaPortfolio/index.html",
-    "main.fab4da40.css.map": "/NicolassperaPortfolio/static/css/main.fab4da40.css.map",
-    "main.c4037c6b.js.map": "/NicolassperaPortfolio/static/js/main.c4037c6b.js.map",
-    "787.5c0b2d12.chunk.js.map": "/NicolassperaPortfolio/static/js/787.5c0b2d12.chunk.js.map"
+    "main.css": "/NicolassperaPortfolio.github.io/static/css/main.77fc92ea.css",
+    "main.js": "/NicolassperaPortfolio.github.io/static/js/main.6743fbd8.js",
+    "static/js/787.5c0b2d12.chunk.js": "/NicolassperaPortfolio.github.io/static/js/787.5c0b2d12.chunk.js",
+    "static/media/Buenclima.png": "/NicolassperaPortfolio.github.io/static/media/Buenclima.9f6f82e6d6282c76b52b.png",
+    "static/media/Proyectoclima.png": "/NicolassperaPortfolio.github.io/static/media/Proyectoclima.3130f761f1abe49bf64d.png",
+    "static/media/GifApp.png": "/NicolassperaPortfolio.github.io/static/media/GifApp.980794ed0ac049e6f938.png",
+    "static/media/WebSorteos.png": "/NicolassperaPortfolio.github.io/static/media/WebSorteos.d47f102a6b45ec4709cb.png",
+    "static/media/home-main.svg": "/NicolassperaPortfolio.github.io/static/media/home-main.359935c39288e92d4dba5c9f2445b91d.svg",
+    "static/media/about.png": "/NicolassperaPortfolio.github.io/static/media/about.aee0f771fbfc1e7b8fa8.png",
+    "static/media/CV Nicolas Spera 2024.pdf": "/NicolassperaPortfolio.github.io/static/media/CV Nicolas Spera 2024.4785870578cd267ddd3e.pdf",
+    "static/media/logo.png": "/NicolassperaPortfolio.github.io/static/media/logo.c75a0d14726ac095cd9d.png",
+    "static/media/home-bg.jpg": "/NicolassperaPortfolio.github.io/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
+    "static/media/avatar.svg": "/NicolassperaPortfolio.github.io/static/media/avatar.7f806e40d46fc76fbc3c4a3d71349951.svg",
+    "static/media/pre.svg": "/NicolassperaPortfolio.github.io/static/media/pre.4410c5baaa673cc131da.svg",
+    "index.html": "/NicolassperaPortfolio.github.io/index.html",
+    "main.77fc92ea.css.map": "/NicolassperaPortfolio.github.io/static/css/main.77fc92ea.css.map",
+    "main.6743fbd8.js.map": "/NicolassperaPortfolio.github.io/static/js/main.6743fbd8.js.map",
+    "787.5c0b2d12.chunk.js.map": "/NicolassperaPortfolio.github.io/static/js/787.5c0b2d12.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.fab4da40.css",
-    "static/js/main.c4037c6b.js"
+    "static/css/main.77fc92ea.css",
+    "static/js/main.6743fbd8.js"
   ]
 }
